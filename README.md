@@ -1,4 +1,4 @@
-# EV-Market-Analysis-project-2
+# EV-Market-Analysis---Feynn-Labs-project-2
 
 ## EV market startup in India
 This repo contains the analysis of the EV market in India. The analysis was conducted using a variety of data sources, including government data, industry reports, and market research.
